@@ -7,6 +7,7 @@ public class Task003 {
         System.out.println("Wow, that's looks so cool!");
         System.out.println("Today is nice day");
         System.out.println("We created nice code");
+        System.out.println("Almost done for today");
     }
 
 }
