@@ -7,5 +7,9 @@ public class Task003 {
         // how are you
 
         System.out.println("Hello home");
+        System.out.println("Hello work");
+
+
+
     }
 }
