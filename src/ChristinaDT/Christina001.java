@@ -6,5 +6,6 @@ public class Christina001 {
         System.out.println("Hello Batch 21");
         System.out.println("It's a wonderful day");
         //new line of code
+        System.out.println("Wednesday is for practice");
     }
 }
