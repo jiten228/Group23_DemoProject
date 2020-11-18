@@ -5,5 +5,6 @@ public class Vita001 {
         System.out.println("Good evening, everyone!");
         System.out.println("How are you?");
         System.out.println("Have a good night!");
+        System.out.println("Created a nice app");
     }
 }
