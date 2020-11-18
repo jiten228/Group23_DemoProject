@@ -8,6 +8,7 @@ public class Task003 {
 
         System.out.println("Hello home");
         System.out.println("Hello work");
+        System.out.println("Hello birds");
 
 
 
