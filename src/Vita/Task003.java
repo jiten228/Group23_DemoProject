@@ -5,6 +5,7 @@ public class Task003 {
         System.out.println("Good morning, B-23");
         System.out.println("Let's create new project");
         System.out.println("Wow, that's looks so cool!");
+        System.out.println("Today is nice day");
     }
 
 }
