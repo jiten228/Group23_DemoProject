@@ -7,5 +7,6 @@ public class Christina001 {
         System.out.println("It's a wonderful day");
         //new line of code
         System.out.println("Wednesday is for practice");
+        System.out.println("Practicing");
     }
 }
