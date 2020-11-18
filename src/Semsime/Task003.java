@@ -5,5 +5,7 @@ public class Task003 {
         System.out.println("Hello");
         // today is great day
         // how are you
+
+        System.out.println("Hello home");
     }
 }
